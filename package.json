@@ -1,0 +1,16 @@
+{
+  "name": "2023_workshop_refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@slidev/cli": "^0.37.1",
+    "slidev-theme-euricom": "^0.2.8"
+  },
+  "scripts": {
+    "slidev": "slidev",
+    "slidev:build": "slidev build"
+  },
+  "author": "",
+  "license": "ISC"
+}
