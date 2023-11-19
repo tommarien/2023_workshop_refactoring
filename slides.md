@@ -25,9 +25,9 @@ background: /back.png
 - Tom Marien (@Tom_Marien)
 - Euricom (10+ years)
 - Team Lead (TS/JS Fullstack)
-- Originally .Net developer
+- Originally .Net Developer
 - 🦕 VB - VBA - DBase - Clipper
-- Rust enthousiast
+- Rust 🦀 enthousiast
 - Speciality: TDD, coaching/mentoring
 
 </v-clicks>
@@ -71,10 +71,30 @@ background: /back.png
 
 <v-clicks>
 
-- Groups (min 2, max 3)
+- Teams (min 2, max 3)
 - Treat fellow team members with kindness and respect.
 - Maybe follow the driver-navigator approach.
 - Failing is ok!!!
+
+</v-clicks>
+
+---<!-- prettier-ignore -->
+layout: cover
+background: /back.png
+
+---
+
+# Gilded Rose 🌹
+
+https://github.com/emilybache/GildedRose-Refactoring-Kata
+
+<v-clicks>
+
+- je bent een nieuwe aanwinst in het team
+- het bedrijf verkoopt de beste goederen
+- enige nadeel is dat ze kwaliteit verliezen hoe ouder ze worden
+- je eerste user story is het toevoegen van een nieuw artikel "Conjured", die 2 maal zo snel hun kwaliteit verliezen
+- je mag alleen maar wijzigingen aanbrengen aan de `updateQuality` methode, de rest moet hetzelfde blijven, daar heel het platform rekent op de code
 
 </v-clicks>
 
@@ -92,5 +112,23 @@ background: /back.png
 - 15:00 - Koffie ☕
 - 15:10 - ChatGpt (Tennis of Gilded Rose)
 - 17:00 - Einde
+
+</v-clicks>
+
+---<!-- prettier-ignore -->
+layout: cover
+background: /back.png
+
+---
+
+# Tennis Game 🎾
+
+https://github.com/emilybache/Tennis-Refactoring-Kata
+
+<v-clicks>
+
+- je bent een software consultant
+- een collega van je is ziek geworden, er rest nog 1,5u van de 10 voorziene uren
+- je opdracht is om de code wat te verbeteren en op te kuisen
 
 </v-clicks>
