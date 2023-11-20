@@ -132,3 +132,22 @@ https://github.com/emilybache/Tennis-Refactoring-Kata
 - je opdracht is om de code wat te verbeteren en op te kuisen
 
 </v-clicks>
+
+---<!-- prettier-ignore -->
+layout: cover
+background: /back.png
+
+---
+
+# Tennis Game 🎾
+
+Extra challenges:
+
+<v-clicks>
+
+- geen else statements
+- single exit point, single return
+- methode lengte < 5 regels (max 80 chars)
+- max 1 indent, no nested statements
+
+</v-clicks>
