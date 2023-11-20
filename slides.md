@@ -95,6 +95,7 @@ https://github.com/emilybache/GildedRose-Refactoring-Kata
 - enige nadeel is dat ze kwaliteit verliezen hoe ouder ze worden
 - je eerste user story is het toevoegen van een nieuw artikel "Conjured", die 2 maal zo snel hun kwaliteit verliezen
 - je mag alleen maar wijzigingen aanbrengen aan de `updateQuality` methode, de rest moet hetzelfde blijven, daar heel het platform rekent op de code
+- kijk niet naar requirements
 
 </v-clicks>
 
@@ -149,5 +150,6 @@ Extra challenges:
 - single exit point, single return
 - methode lengte < 5 regels (max 80 chars)
 - max 1 indent, no nested statements
+- no naked primitives
 
 </v-clicks>
