@@ -6,7 +6,7 @@ layout: cover
 background: /CleanCode.jpeg
 ---
 
-# Clean Code
+# Software Craftsmanship
 
 ## Workshop
 
